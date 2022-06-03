@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\button game\button game\bin\Debug\net6.0-windows\button game.exe
+C:\Users\acer\source\repos\button game\button game\bin\Debug\net6.0-windows\button game.deps.json
+C:\Users\acer\source\repos\button game\button game\bin\Debug\net6.0-windows\button game.runtimeconfig.json
+C:\Users\acer\source\repos\button game\button game\bin\Debug\net6.0-windows\button game.dll
+C:\Users\acer\source\repos\button game\button game\bin\Debug\net6.0-windows\button game.pdb
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button_game.Form1.resources
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.AssemblyInfo.cs
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.dll
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\refint\button game.dll
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.pdb
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\button game.genruntimeconfig.cache
+C:\Users\acer\source\repos\button game\button game\obj\Debug\net6.0-windows\ref\button game.dll
